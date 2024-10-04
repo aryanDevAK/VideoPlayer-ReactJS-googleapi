@@ -3,7 +3,7 @@
 A YouTube-like video player web application that allows users to browse popular videos, watch them, and interact with related content. The app fetches video data from the YouTube API, displays them in a feed, and allows video playback, along with features like viewing likes, dislikes, comments, and channel information.
 
 ## Live Project
-You can view the live project [here](https://project-67-video-player-app.netlify.app/).
+You can view the [Live project here](https://project-67-video-player-app.netlify.app/).
 
 ## Features
 - **Video Feed**: Displays a feed of trending videos based on category.
