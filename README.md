@@ -40,9 +40,11 @@ You can view the live project [here](https://project-67-video-player-app.netlify
    npm start
    ```
 6. Visit http://localhost:5173 in your browser to view the application.
+
 ## API Usage
--The application uses the YouTube Data API to fetch:
-  -Video details (title, statistics, thumbnails)
-  -Channel information (channel name, subscriber count)
-  -Comments (top-level comments, author details, likes on comments)
-  -You need to provide your own YouTube API key in the data.js file.
+- The application uses the YouTube Data API to fetch:
+  - Video details (title, statistics, thumbnails)
+  - Channel information (channel name, subscriber count)
+  - Comments (top-level comments, author details, likes on comments)
+- You need to provide your own YouTube API key in the `data.js` file.
+
